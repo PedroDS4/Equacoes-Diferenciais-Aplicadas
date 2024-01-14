@@ -16,10 +16,10 @@
 - [**Pêndulo Duplo**](#pendulo-duplo) ![l3](https://via.placeholder.com/15/0000c8/000000?text=+) Completed
 
 ## Sistema Massa-Mola-Amortecedor
-Descrição do sistema massa-mola-amortecedor...
+Composto por dois sistemas massa-mola-amortecedor interligados, por isso tem comportamento caótico
 
 ## Sistema Predador-Presa
-Descrição do sistema predador-presa...
+Sistema com um predador e uma presa com quantidades iniciais fixadas para verificar um compportamento semi-caótico
 
 ## Pêndulo Duplo
-Descrição do pêndulo duplo...
+Pêndulo pendurado em outro pêndulo, comportamento caótico
